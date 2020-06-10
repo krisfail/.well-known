@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/yuuki76
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yuuki76.github.io
+  * I am yuuki76 (https://keybase.io/yuuki76) on keybase.
+  * I have a public key ASA8CFd8qShORKpikBcOaOYIhhaw2Bd-PmnLx1ffTNmaCwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203c08577ca9284e44aa6290170e68e6088616b0d8177e3e69cbc757df4cd99a0b0a",
+      "host": "keybase.io",
+      "kid": "01203c08577ca9284e44aa6290170e68e6088616b0d8177e3e69cbc757df4cd99a0b0a",
+      "uid": "f5fd0a97a342c0dc9c3e0906ff567c19",
+      "username": "yuuki76"
+    },
+    "merkle_root": {
+      "ctime": 1591832508,
+      "hash": "613b2ecf0eb568a99012fb569fc1530d00379782f900a77545cfb7960bb7d9808951031dd16fab9bfce3a185e998c8144170142e11f727e22b5610c8b2cbd8c7",
+      "hash_meta": "7967ffbe41e72a63272c4b544530285ed557212904bab100ea64358dcc574aa9",
+      "seqno": 16623823
+    },
+    "service": {
+      "entropy": "RTh9H2zKDbiHXgYw0l6sm8T0",
+      "hostname": "yuuki76.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1591832563,
+  "expire_in": 504576000,
+  "prev": "31fbb73b222335c5c8fc9cdd8c8722966d103295a274781ee7993f2fccc6042d",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPAhXfKkoTkSqYpAXDmjmCIYWsNgXfj5py8dX30zZmgsKp3BheWxvYWTESpcCHcQgMfu3OyIjNcXI/JzdjIcilm0QMpWidHge55k/L8zGBC3EIKaLDEcxdUmmlBytOgMVZnxLnJvEfHXuK3sypxfDFkCkAgHCo3NpZ8RA4QCqXdBjAEjz7MYoGL68wkzA/GLzycQ5sOtiohhK5vXrxX2wH3Czw1R16xkNg2mWtgdc72nbqAOvfnGHKA5eA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJQ6mOJpNIGgsY0wWyGBo03BrRi3YoclZGMRSFdAqgxto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yuuki76
+
+==================================================================
